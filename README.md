@@ -13,7 +13,7 @@ Cette application Python permet aux **personnes en situation de handicap** ayant
 
 ---
 ## fonctionnement 
-1. telecharge le script
+1. telecharge le script reconnaisance.py
 2. Autorise l’accès à la webcam.
 3. Suis les instructions affichées :
     L’alphabet défile automatiquement (1 lettre par seconde).
@@ -44,7 +44,7 @@ Cette application Python permet aux **personnes en situation de handicap** ayant
 1. **Clone le projet :**
 
 ```bash
-git clone https://github.com/mrbaores/detecteur_alphabet.git
+git clone https://github.com/mrbaores/reconnaissance.git
 cd detecteur_alphabet
 
 ---
