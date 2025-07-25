@@ -48,7 +48,8 @@ git clone https://github.com/mrbaores/detecteur_alphabet.git
 cd detecteur_alphabet
 
 ---
-## 📄 Licence
+
+##  📄 Licence
 
 Ce projet est sous licence MIT
 
